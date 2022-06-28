@@ -1,2 +1,3 @@
 https://outlook.office365.com
 http://prueba.com
+https://security.microsoft.com
