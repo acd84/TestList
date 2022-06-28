@@ -1,2 +1,3 @@
 skype.com
 virtualearth.net
+https://portal.azure.com
